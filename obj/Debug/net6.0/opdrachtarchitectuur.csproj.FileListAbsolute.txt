@@ -268,3 +268,8 @@ C:\repos\WPFW projects\Opdracht-architectuur\obj\Debug\net6.0\refint\opdrachtarc
 C:\repos\WPFW projects\Opdracht-architectuur\obj\Debug\net6.0\opdrachtarchitectuur.pdb
 C:\repos\WPFW projects\Opdracht-architectuur\obj\Debug\net6.0\opdrachtarchitectuur.genruntimeconfig.cache
 C:\repos\WPFW projects\Opdracht-architectuur\obj\Debug\net6.0\ref\opdrachtarchitectuur.dll
+C:\repos\WPFW projects\Opdracht-architectuur\obj\Debug\net6.0\staticwebassets\msbuild.opdrachtarchitectuur.Microsoft.AspNetCore.StaticWebAssets.props
+C:\repos\WPFW projects\Opdracht-architectuur\obj\Debug\net6.0\staticwebassets\msbuild.build.opdrachtarchitectuur.props
+C:\repos\WPFW projects\Opdracht-architectuur\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.opdrachtarchitectuur.props
+C:\repos\WPFW projects\Opdracht-architectuur\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.opdrachtarchitectuur.props
+C:\repos\WPFW projects\Opdracht-architectuur\obj\Debug\net6.0\staticwebassets.pack.json
