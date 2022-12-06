@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace opdrachtarchitectuur.Migrations
 {
     [DbContext(typeof(AttractieParkContext))]
-    [Migration("20221206124223_1")]
+    [Migration("20221206124926_1")]
     partial class _1
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

@@ -3,7 +3,7 @@ import AttractieForm from './AttractieForm';
 
 const VoegAttractieToe = ({ history }) => {
   const handleOnSubmit = async (attractie) => {
-    fetch('attractie', {
+    await fetch('attractie', {
       method: 'POST',
       headers: {
         'Accept': 'application/json',

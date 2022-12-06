@@ -9951,11 +9951,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\repos\\WPFW projects\\Opdracht-architectuur\\opdrachtarchitectuur.csproj",
+      "projectUniqueName": "c:\\repos\\WPFW projects\\opdrachtarchitectuur\\opdrachtarchitectuur.csproj",
       "projectName": "opdrachtarchitectuur",
-      "projectPath": "c:\\repos\\WPFW projects\\Opdracht-architectuur\\opdrachtarchitectuur.csproj",
+      "projectPath": "c:\\repos\\WPFW projects\\opdrachtarchitectuur\\opdrachtarchitectuur.csproj",
       "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-      "outputPath": "c:\\repos\\WPFW projects\\Opdracht-architectuur\\obj\\",
+      "outputPath": "c:\\repos\\WPFW projects\\opdrachtarchitectuur\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -19,7 +19,7 @@ const App = (props) => {
             <Route component={Suggestie} path="/suggestie" />
             <Route component={AttractieLijst} path="/attracties" />
             <Route component={VoegAttractieToe} path="/attractieToevoegen" />
-            <Route component={<div>Deze pagina bestaat nog niet. Het is leerzaam deze pagina te maken.</div>} path="/pasAttractieAaan" />
+            <Route component={(props) => (<div>Deze pagina bestaat nog niet. Het is leerzaam deze pagina te maken.</div>)} path="/pasAttractieAaan" />
             <Route exact path='/' component={Home} />
           </Switch>
         </div>

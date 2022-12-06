@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\WPFW projects\\Opdracht-architectuur\\opdrachtarchitectuur.csproj": {}
+    "C:\\repos\\WPFW projects\\opdrachtarchitectuur\\opdrachtarchitectuur.csproj": {}
   },
   "projects": {
-    "C:\\repos\\WPFW projects\\Opdracht-architectuur\\opdrachtarchitectuur.csproj": {
+    "C:\\repos\\WPFW projects\\opdrachtarchitectuur\\opdrachtarchitectuur.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\WPFW projects\\Opdracht-architectuur\\opdrachtarchitectuur.csproj",
+        "projectUniqueName": "C:\\repos\\WPFW projects\\opdrachtarchitectuur\\opdrachtarchitectuur.csproj",
         "projectName": "opdrachtarchitectuur",
-        "projectPath": "C:\\repos\\WPFW projects\\Opdracht-architectuur\\opdrachtarchitectuur.csproj",
+        "projectPath": "C:\\repos\\WPFW projects\\opdrachtarchitectuur\\opdrachtarchitectuur.csproj",
         "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\WPFW projects\\Opdracht-architectuur\\obj\\",
+        "outputPath": "C:\\repos\\WPFW projects\\opdrachtarchitectuur\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config"
