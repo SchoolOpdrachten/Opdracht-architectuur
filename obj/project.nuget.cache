@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "urDCCxUyPDVIoje3HXt5CpNTtJ8GtVLAOuTuakMB8cL0rJhyvKgnO3H49BM0LZnQapEVl+Bur/K/N48B1LA9Wg==",
+  "dgSpecHash": "uim+wMJiiRyZgZcZwgZpvwY9vnVNzNLachxxYQPuue7cEWdUMVIS4XISiAvE3O8np8G9928FTUJfIjIhhRNDcg==",
   "success": true,
-  "projectFilePath": "C:\\repos\\WPFW projects\\Opdracht-architectuur\\opdrachtarchitectuur.csproj",
+  "projectFilePath": "c:\\repos\\WPFW projects\\Opdracht-architectuur\\opdrachtarchitectuur.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\peter\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\peter\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
@@ -175,7 +175,11 @@
     "C:\\Users\\peter\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\peter\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
     "C:\\Users\\peter\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\peter\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\peter\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\peter\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\peter\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\peter\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\peter\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512"
   ],
   "logs": []
 }

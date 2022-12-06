@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\WPFW projects\\Opdracht-architectuur\\opdrachtarchitectuur.csproj": {}
+    "c:\\repos\\WPFW projects\\Opdracht-architectuur\\opdrachtarchitectuur.csproj": {}
   },
   "projects": {
-    "C:\\repos\\WPFW projects\\Opdracht-architectuur\\opdrachtarchitectuur.csproj": {
+    "c:\\repos\\WPFW projects\\Opdracht-architectuur\\opdrachtarchitectuur.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\WPFW projects\\Opdracht-architectuur\\opdrachtarchitectuur.csproj",
+        "projectUniqueName": "c:\\repos\\WPFW projects\\Opdracht-architectuur\\opdrachtarchitectuur.csproj",
         "projectName": "opdrachtarchitectuur",
-        "projectPath": "C:\\repos\\WPFW projects\\Opdracht-architectuur\\opdrachtarchitectuur.csproj",
+        "projectPath": "c:\\repos\\WPFW projects\\Opdracht-architectuur\\opdrachtarchitectuur.csproj",
         "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\WPFW projects\\Opdracht-architectuur\\obj\\",
+        "outputPath": "c:\\repos\\WPFW projects\\Opdracht-architectuur\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -68,6 +68,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.11, 6.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -76,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
