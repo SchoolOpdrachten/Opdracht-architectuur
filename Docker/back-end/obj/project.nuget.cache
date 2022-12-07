@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nkNZAgKnffKxi/AzuOck98jGTIVs9bukYFM134/mPTx0JTDwNvs+CeIBR505jp9sMtYiIyBqSPMbqAOR1pKFSQ==",
+  "dgSpecHash": "UQJCx6lbAqaT8oUA6UZ0PA0qSAYfb2gZQvO1t1k50Qi7/X0yuKHlrhRF8RbpANS6gM3l7JLfPby+kuSjrON9iw==",
   "success": true,
-  "projectFilePath": "C:\\repos\\WPFW projects\\opdrachtarchitectuur\\opdrachtarchitectuur.csproj",
+  "projectFilePath": "C:\\repos\\WPFW projects\\opdrachtarchitectuur\\docker\\back-end\\opdrachtarchitectuur.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\peter\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\peter\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
