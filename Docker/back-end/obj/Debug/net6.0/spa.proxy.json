@@ -1,8 +1,0 @@
-{
-"SpaProxyServer": {
-"ServerUrl": "https://localhost:44489",
-"LaunchCommand": "npm start",
-"WorkingDirectory": "C:\\repos\\WPFW projects\\opdrachtarchitectuur\\docker\\back-end\\ClientApp\\",
-"MaxTimeoutInSeconds": "120"
-}
-}
