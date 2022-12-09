@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace opdrachtarchitectuur.Controllers
 {
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     [ApiController]
     public class AttractieController : ControllerBase
     {

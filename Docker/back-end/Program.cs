@@ -8,6 +8,12 @@ builder.Services.AddDbContext<AttractieParkContext>(options =>
 // Add services to the container.
 
 builder.Services.AddControllersWithViews();
+builder.Services.AddCors(o => o.AddPolicy("MyPolicy", builder =>
+        {
+            builder.AllowAnyOrigin()
+                   .AllowAnyMethod()
+                   .AllowAnyHeader();
+        }));
 
 var app = builder.Build();
 
@@ -21,12 +27,13 @@ if (!app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 app.UseRouting();
+app.UseCors("MyPolicy");
 
 
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller}/{action=Index}/{id?}");
 
-app.MapFallbackToFile("index.html");;
+app.MapFallbackToFile("index.html"); 
 
 app.Run();
